@@ -12,4 +12,4 @@ So its necessary to require bootstrap.bundle.js instead of bootstrap.js in your 
 ```
 require('bootstrap/dist/js/bootstrap.bundle.js');
 ```
-See the [example file](js/frontend.js)
+See the [example file](assets/js/frontend.js)
