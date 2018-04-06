@@ -1,4 +1,4 @@
-# webpack-encore-bootstrap-4 for symfony 4
+# symfony-webpack-encore-bootstrap-4
 
 - yarn add @symfony/webpack-encore --dev
 
